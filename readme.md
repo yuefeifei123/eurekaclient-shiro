@@ -1,1 +1,1 @@
-this is the readme note
+this is the eureka client shiro readme note
